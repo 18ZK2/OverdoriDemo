@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 6497763738742348671}
   - component: {fileID: 4838939485761723612}
   m_Layer: 0
-  m_Name: wallBrakeefect
+  m_Name: wallBrakeefect5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
